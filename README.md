@@ -1,5 +1,5 @@
 - Interested in software, and building powerful applications and projects that meet needs.
-- Am looking to collaborate on any engineering or machine learning projects, feel free to reach out to me via email at karan.sampath02@gmail.com!
+- Would love to collaborate on AI projects, feel free to contact me via my website linked below!
 
 <!---
 KaranSampath/KaranSampath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
